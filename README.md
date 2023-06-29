@@ -1,4 +1,4 @@
-# WHOAMI
-Hi, my name is Simbaa and Im currently hating Java
-# WORKING ON:
+# Whoami
+Hi, my name is Simbaa, no further infos.
+# Working currently at
 https://github.com/MkLeaks
